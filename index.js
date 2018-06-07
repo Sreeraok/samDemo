@@ -8,7 +8,7 @@ exports.handler = (event, context, callback) => {
     emitLambdaAge();
 
     // This variable can be updated and checked in to your repository 
-    // to update the number of SAM squirrels on the screen.
+    // to update the number of SAM squirrels on the screen...
     var samCount = 1;
 
     // Or you can update your Lambda function's environment variable.
